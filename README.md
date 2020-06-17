@@ -7,3 +7,7 @@ More text
 We are modifying this!
 
 I hope this isn't much of a proble.
+
+Making more modifications.
+
+Updates to stage.
